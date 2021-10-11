@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.12.10 08:08:58.798.pas,C:\Users\Дмитрий\Documents\Borland Studio Projects\Unit1.pas=D:\Developer\AlphaWindow\MainUnit.pas</Transaction>
+    <Transaction>2007.12.10 08:08:58.798.dfm,C:\Users\Дмитрий\Documents\Borland Studio Projects\Unit1.dfm=D:\Developer\AlphaWindow\MainUnit.dfm</Transaction>
+    <Transaction>2007.12.10 19:20:32.820.pas,D:\Developer\AlphaWindow\Unit1.pas=D:\Developer\AlphaWindow\FindUnit.pas</Transaction>
+    <Transaction>2007.12.10 19:20:32.820.dfm,D:\Developer\AlphaWindow\Unit1.dfm=D:\Developer\AlphaWindow\FindUnit.dfm</Transaction>
+    <Transaction>2007.12.10 19:52:34.116.pas,D:\Developer\AlphaWindow\ABOUT.pas=D:\Developer\AlphaWindow\AboutUnit.pas</Transaction>
+    <Transaction>2007.12.10 19:52:34.116.dfm,D:\Developer\AlphaWindow\ABOUT.dfm=D:\Developer\AlphaWindow\AboutUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
